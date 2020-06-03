@@ -69,5 +69,5 @@ In comparison to above examples using `anyall.macro` you can do:
 if(x === any('start', 'run', 'go', 'execute')) {...}
 ```
 
-It's cleaner and less boilerlate!
+It's cleaner and less boilerplate!
 Allows you to write comparison without repetitive tasks like writing `||` and `&&` muliple times, or what's even worst writing overhelming functions by using nested `Array.proptotype.find` and `Array.proptotype.every`
